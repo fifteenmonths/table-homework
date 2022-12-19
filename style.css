@@ -1,0 +1,24 @@
+caption {
+    background-color: rgb(55, 108, 255);
+    color: rgb(255, 217, 0);
+}
+
+.table_1 {
+    background-color: rgb(162, 0, 255);
+}
+.table_2 {
+    background-color: rgb(162, 0, 255);
+}
+.table_3 {
+    background-color: rgb(162, 0, 255);
+}
+.table_4 {
+    background-color: rgb(162, 0, 255);
+}
+.table_5 {
+    background-color: rgb(162, 0, 255);
+}
+
+tfoot {
+    background-color: rgb(160, 160, 160);
+}
